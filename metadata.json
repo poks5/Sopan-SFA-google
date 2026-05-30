@@ -1,0 +1,6 @@
+{
+  "name": "Sopan",
+  "description": "Sopan is a specialized Sales Force Automation (SFA) and Medical Representative (MR) reporting software designed to bridge the gap between field activities and corporate management in the pharmaceutical industry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

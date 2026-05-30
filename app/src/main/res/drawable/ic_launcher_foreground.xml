@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Rounded Medical Cross representing Sopan - The Healing Partner -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 44,24 C 44,21.8 45.8,20 48,20 L 60,20 C 62.2,20 64,21.8 64,24 L 64,44 L 84,44 C 86.2,44 88,45.8 88,48 L 88,60 C 88,62.2 86.2,64 84,64 L 64,64 L 64,84 C 64,86.2 62.2,88 60,88 L 48,88 C 45.8,88 44,86.2 44,84 L 44,64 L 24,64 C 21.8,64 20,62.2 20,60 L 20,48 C 20,45.8 21.8,44 24,44 L 44,44 Z" />
+    <path
+        android:fillColor="#00B0FF"
+        android:pathData="M 50,32 H 58 V 50 H 76 V 58 H 58 V 76 H 50 V 58 H 32 V 50 H 50 Z" />
+</vector>
